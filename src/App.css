@@ -6,3 +6,15 @@ body{
     width: 50%;
     margin: 20px auto;
 }
+
+.btnAdd {
+    background-color: #ffffff;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: 15px;
+    height: 50%;
+    align-self: center;
+    box-shadow: 6px 8px 4px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+    font-size: 14px;
+}
